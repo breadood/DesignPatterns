@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.vcxproj", "{09822B68-C01C-42D3-B6EE-00545FED5BEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProxyPattern", "ProxyPattern\ProxyPattern.vcxproj", "{57E15321-72BD-426E-B629-8EDDE4017216}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{09822B68-C01C-42D3-B6EE-00545FED5BEE}.Release|x64.Build.0 = Release|x64
 		{09822B68-C01C-42D3-B6EE-00545FED5BEE}.Release|x86.ActiveCfg = Release|Win32
 		{09822B68-C01C-42D3-B6EE-00545FED5BEE}.Release|x86.Build.0 = Release|Win32
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Debug|x64.ActiveCfg = Debug|x64
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Debug|x64.Build.0 = Debug|x64
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Debug|x86.ActiveCfg = Debug|Win32
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Debug|x86.Build.0 = Debug|Win32
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Release|x64.ActiveCfg = Release|x64
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Release|x64.Build.0 = Release|x64
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Release|x86.ActiveCfg = Release|Win32
+		{57E15321-72BD-426E-B629-8EDDE4017216}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
