@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrategyPattern", "Strategy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMethod", "TemplateMethod\TemplateMethod.vcxproj", "{A36A5058-EFB5-458E-B110-5F06E57296D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VisitorPattern", "VisitorPattern\VisitorPattern.vcxproj", "{E3733512-2B59-4CC4-AFB3-3A5682A4703B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{A36A5058-EFB5-458E-B110-5F06E57296D8}.Release|x64.Build.0 = Release|x64
 		{A36A5058-EFB5-458E-B110-5F06E57296D8}.Release|x86.ActiveCfg = Release|Win32
 		{A36A5058-EFB5-458E-B110-5F06E57296D8}.Release|x86.Build.0 = Release|Win32
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Debug|x64.ActiveCfg = Debug|x64
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Debug|x64.Build.0 = Debug|x64
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Debug|x86.Build.0 = Debug|Win32
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Release|x64.ActiveCfg = Release|x64
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Release|x64.Build.0 = Release|x64
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Release|x86.ActiveCfg = Release|Win32
+		{E3733512-2B59-4CC4-AFB3-3A5682A4703B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
